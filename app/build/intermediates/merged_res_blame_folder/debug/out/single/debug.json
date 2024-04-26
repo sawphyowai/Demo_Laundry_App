@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_placeholder_person.jpg.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/placeholder_person.jpg"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_round_chat.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_round_chat.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_outline_person.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_outline_person.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_placeholder_laundry_machine.jpg.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/placeholder_laundry_machine.jpg"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_remove.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_language.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_empty_laundry.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_empty_laundry.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_boarding_image.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/boarding_image.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_google.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_washing.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_washing.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_bicycle.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_bicycle.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_logo.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_facebook.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_round_home.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_round_home.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_paypal.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_paypal.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_laundry_service.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_laundry_service.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_cleaning.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_cleaning.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_credit_card.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_credit_card.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_drying.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_drying.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_round_notes.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_round_notes.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/drawable_ic_apple.xml.flat",
+        "source": "com.example.laundry_demo.app-main-60:/drawable/ic_apple.xml"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/raw_anim_success.json.flat",
+        "source": "com.example.laundry_demo.app-main-60:/raw/anim_success.json"
+    },
+    {
+        "merged": "com.example.laundry_demo.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.laundry_demo.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
