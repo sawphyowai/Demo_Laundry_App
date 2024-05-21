@@ -1,20 +1,20 @@
-#Fri Apr 26 23:04:51 ICT 2024
-base.0=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.10=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
-base.11=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
-base.12=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
-base.13=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
-base.14=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
-base.15=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.2=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.4=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.5=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.6=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.7=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.8=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
-base.9=/Users/sawphyowai/Desktop/Kodico Book/Compose/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+#Tue May 21 13:09:36 ICT 2024
+base.0=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.10=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.11=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+base.12=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.13=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.14=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.15=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.2=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.4=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.5=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.6=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.7=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.8=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+base.9=/Users/sawphyowai/Desktop/MVP_and_MVVM/untitled folder/Demo_Laundry_App/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=4/classes.dex
